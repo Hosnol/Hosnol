@@ -16,8 +16,8 @@ I'm hosnol, i just finished my Bachelor's degree in Informatics Engineering with
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Hosnol&repo=TugasBesarWebsite-Restoran&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
-<a href="https://github.com/Hosnol/PWL_PROJECT">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Hosnol&repo=PWL_PROJECT&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+<a href="https://github.com/Hosnol/PWL-PROJECT_Sitem_Penilaian_Mahasiswa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=Hosnol&repo=Sistem Penilaian Mahasiswa&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
 <a href="https://github.com/Hosnol/UAS_IoT2022">
